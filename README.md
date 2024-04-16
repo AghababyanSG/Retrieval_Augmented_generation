@@ -19,4 +19,3 @@ To get started with this project, clone the repository and install the required 
 ```bash
 git clone https://github.com/AghababyanSG/Retrieval_Augmented_generation.git
 cd Retrieval_Augmented_generation
-pip install -r requirements.txt
